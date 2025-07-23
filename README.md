@@ -38,6 +38,11 @@ system.out.println();```
 | Cabeçalho 1 | Cabeçalho 2 |
 |-------------|-------------|
 
+
+- [x] Tarefa 1 <br>
+= [] Tarefa 2
+
+
 <!--
 **mvss1983/mvss1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
